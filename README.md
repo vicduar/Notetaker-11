@@ -35,9 +35,13 @@ Open the terminal. Since there is already a package.json file, the next step is 
 References
 
 Github (2024). A free webservice for storing and deploying websites. Multiple pages retrieved and utilized from www.github.com April 20, 2024.
+
 MDN (April 20, 2024). Mozilla resources for developers. Multiple pages retrieved from https://developer.mozilla.org/en-US/ .
+
 Meyers, M. (2024, April 20). Tutoring session via Www.zoom.us . Denver University Bootcamp.
+
 NPM (2024, April 20). Node.js website. Retrieved from https://www.npmjs.com/package/inquirer .
+
 W3Schools (2024, April 20). The world’s largest web developer site. Multiple pages retrieved from www.w3schools.com April 12-14, 2024.
 
 ##License
